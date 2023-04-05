@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준닉네임)](https://solved.ac/khj020508)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj020508)](https://solved.ac/khj020508)
